@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a first-year tech enthusiast based in Bengaluru, passi
 
 ### 📫 Let's Connect
 * * LinkedIn: [Akshaya C S] (https://www.linkedin.com/in/akshaya-cs-193b76382)
-* Email: [akshayacs2008@gmail.com] (mailto:akshayacs2008@gmail.com)
+* Email: [akshayacs2008@gmail.com]
 
 ---
 ⭐️ *Thanks for stopping by! Check out my repositories below.*
