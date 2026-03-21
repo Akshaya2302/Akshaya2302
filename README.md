@@ -1,6 +1,8 @@
 # Hi there, I'm Akshaya! 👋
 
-**Aspiring AI/ML Engineer & Full Stack Developer | B.Tech CSE (AI & ML) Student**
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EC866&width=435&lines=Aspiring+AI%2FML+Engineer;Learning+Web+Development;Daily+Coder+(60-90+mins)!;B.Tech+CSE+Student" alt="Typing SVG" />
+</p>
 
 Welcome to my GitHub! I'm a first-year tech enthusiast based in Bengaluru, passionate about solving problems and building things from scratch. I'm currently on a journey to code every single day and expand my skill set.
 
@@ -10,7 +12,6 @@ Welcome to my GitHub! I'm a first-year tech enthusiast based in Bengaluru, passi
 * 💻 I previously learned **C** and I'm actively building my web development fundamentals.
 * ⚡ Fun fact: I have a solid streak of practicing coding for 60-90 minutes every day!
 
-### 🛠️ Tech Stack & Tools
 ### 🛠️ Tech Stack & Tools
 
 **Languages:**
@@ -22,9 +23,17 @@ Welcome to my GitHub! I'm a first-year tech enthusiast based in Bengaluru, passi
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+### 📊 GitHub Stats
+![Akshaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshaya2302&show_icons=true&hide_border=true&title_color=2EC866&icon_color=2EC866)
+![Akshaya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaya2302&layout=compact&hide_border=true&title_color=2EC866&icon_color=2EC866)
+
+
 ### 📫 Let's Connect
-* LinkedIn: [Akshaya C S](https://www.linkedin.com/in/akshaya-cs-193b76382)
-* Email: [akshayacs2008@gmail.com](mailto:akshayacs2008@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaya-cs-193b76382)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshayacs2008@gmail.com)
 
 ---
 ⭐️ *Thanks for stopping by! Check out my repositories below.*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Akshaya2302&color=2EC866&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
