@@ -34,6 +34,3 @@ Welcome to my GitHub! I'm a first-year tech enthusiast based in Bengaluru, passi
 
 ---
 ⭐️ *Thanks for stopping by! Check out my repositories below.*
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akshaya2302&color=2EC866&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
