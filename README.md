@@ -30,11 +30,11 @@ Welcome to my GitHub! I'm a first-year tech enthusiast based in Bengaluru, passi
 
 ### 🚀 Featured Projects
 
-[![Daily-C-program](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Akshaya2302&repo=Daily-C-program&theme=radical&hide_border=true)](https://github.com/Akshaya2302/Daily-C-program)
+[![Daily-C-program](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Akshaya2302&repo=Daily-C-program&theme=radical&hide_border=true&cache_seconds=14401)](https://github.com/Akshaya2302/Daily-C-program)
 
-[![Python-programming-daily-60-mins](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Akshaya2302&repo=Python-programming-daily-60-mins&theme=radical&hide_border=true)](https://github.com/Akshaya2302/Python-programming-daily-60-mins)
+[![Python-programming-daily-60-mins](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Akshaya2302&repo=Python-programming-daily-60-mins&theme=dracula&hide_border=true&cache_seconds=14401)](https://github.com/Akshaya2302/Python-programming-daily-60-mins)
 
-[![Web-Development-HTML](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Akshaya2302&repo=Web-Development-HTML&theme=radical&hide_border=true)](https://github.com/Akshaya2302/Web-Development-HTML)
+[![Web-Development-HTML](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Akshaya2302&repo=Web-Development-HTML&theme=radical&hide_border=true&cache_seconds=14401)](https://github.com/Akshaya2302/Web-Development-HTML)
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaya-cs-193b76382)
