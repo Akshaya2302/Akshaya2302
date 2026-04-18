@@ -27,12 +27,6 @@ Welcome to my GitHub! I'm a first-year tech enthusiast based in Bengaluru, passi
 ![Akshaya's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Akshaya2302&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=14400)
 ![Akshaya's Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akshaya2302&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=14400)
 
-### 🚀 Featured Projects
-
-[![Daily-C-program](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Akshaya2302&repo=Daily-C-program&theme=radical&hide_border=true&cache_seconds=14401)](https://github.com/Akshaya2302/Daily-C-program)
-[![Python-programming-daily-60-mins](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Akshaya2302&repo=Python-programming-daily-60-mins&theme=dracula&hide_border=true&cache_seconds=14401)](https://github.com/Akshaya2302/Python-programming-daily-60-mins)
-[![Web-Development-HTML](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Akshaya2302&repo=Web-Development-HTML&theme=radical&hide_border=true&cache_seconds=14401)](https://github.com/Akshaya2302/Web-Development-HTML)
-
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaya-cs-193b76382)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshayacs2008@gmail.com)
