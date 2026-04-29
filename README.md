@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a first-year tech enthusiast based in Bengaluru, passi
 
 ### 🚀 About Me
 * 🎓 Studying Computer Science and Engineering with a focus on AI & Machine Learning.
-* 🌱 Currently diving deep into **Python**, **HTML**.
+* 🌱 Currently diving deep into **Python**, **HTML**, **CSS**.
 * 💻 I previously learned **C** and I'm actively building my web development fundamentals.
 * ⚡ Fun fact: I have a solid streak of practicing coding for 60-90 minutes every day!
 
