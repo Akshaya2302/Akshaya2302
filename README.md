@@ -24,8 +24,8 @@ Welcome to my GitHub! I'm a first-year tech enthusiast based in Bengaluru, passi
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📊 GitHub Stats 
-![Akshaya's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Akshaya2302&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=14400)
-![Akshaya's Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akshaya2302&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=14400)
+![Akshaya's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Akshaya2302&show_icons=true&theme=dracula&hide_border=true&cache_seconds=14400)
+![Akshaya's Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akshaya2302&layout=compact&theme=dracula&hide_border=true&cache_seconds=14400)
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaya-cs-193b76382)
