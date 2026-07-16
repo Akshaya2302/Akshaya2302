@@ -136,15 +136,15 @@
 
 ## 📊 &nbsp;GitHub Metrics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akshaya2302&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="Akshaya's GitHub Stats"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaya2302&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Akshaya2302&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12&amp;background=0D1117&amp;ring=6C63FF&amp;fire=6C63FF&amp;currStreakLabel=6C63FF&amp;sideLabels=FFFFFF&amp;dates=A599FF" alt="GitHub Streak"/>
-</p>
+![Akshaya's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Akshaya2302&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akshaya2302&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF)
+
+<img src="https://streak-stats.demolab.com?user=Akshaya2302&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12&amp;background=0D1117&amp;ring=6C63FF&amp;fire=6C63FF&amp;currStreakLabel=6C63FF&amp;sideLabels=FFFFFF&amp;dates=A599FF" alt="GitHub Streak"/>
+
+</div>
 
 <br>
 
@@ -152,11 +152,19 @@
 
 <br>
 
-## 🏆 &nbsp;GitHub Trophies
+## 📈 &nbsp;Profile Summary
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akshaya2302&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
-</p>
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshaya2302&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akshaya2302&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akshaya2302&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akshaya2302&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akshaya2302&theme=tokyonight&utcOffset=5.5)
+
+</div>
 
 <br>
 
