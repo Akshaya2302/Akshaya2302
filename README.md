@@ -1,27 +1,19 @@
-<div align="center">
-
-<h1 align="center">Hey there, I'm Akshaya C S 👋</h1>
-<h3 align="center">🎓 B.Tech CSE — Artificial Intelligence & Machine Learning</h3>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=70&lines=Building+with+Code+%7C+Solving+with+Logic;AI%2FML+Engineer+in+the+Making+%E2%9A%A1)](https://git.io/typing-svg)
-
-<br>
-
-<a href="https://github.com/Akshaya2302">
-
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Akshaya2302?tab=repositories">
-<img src="https://img.shields.io/badge/Repos-Check_Them_Out-6C63FF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Repositories"/>
-</a>
-
-</div>
-
-<br>
-
----
-
-<br>
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h1>Hey there, I'm Akshaya C S 👋</h1>
+      <h3>🚀 AI/ML Engineer & Full-Stack Developer in the Making</h3>
+      <p><em>Pursuing B.Tech in CSE — Specializing in Artificial Intelligence & Machine Learning</em></p>
+      <br>
+      <a href="https://github.com/Akshaya2302?tab=repositories">
+        <img src="https://img.shields.io/badge/Repositories-Explore%20My%20Vault-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+      </a>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=300&height=50&lines=Building+with+Code;Solving+with+Logic;AI%2FML+In+The+Making+%E2%9A%A1" alt="Typing SVG" />
+    </td>
+  </tr>
+</table>
 
 ## 🧑‍💻 &nbsp;About Me
 
