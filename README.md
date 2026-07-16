@@ -1,12 +1,9 @@
 <div align="center">
 
-# Hey there, I'm Akshaya C S 👋
+<h1 align="center">Hey there, I'm Akshaya C S 👋</h1>
+<h3 align="center">🎓 B.Tech CSE — Artificial Intelligence & Machine Learning</h3>
 
-### `B.Tech CSE — Artificial Intelligence & Machine Learning`
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=70&lines=Building+with+Code+%7C+Solving+with+Logic;AI%2FML+Engineer+in+the+Making+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=70&lines=Building+with+Code+%7C+Solving+with+Logic;AI%2FML+Engineer+in+the+Making+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br>
 
