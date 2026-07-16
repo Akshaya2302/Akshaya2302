@@ -1,135 +1,193 @@
 <div align="center">
 
 # Hey there, I'm Akshaya C S 👋
+
 ### `B.Tech CSE — Artificial Intelligence & Machine Learning`
-<br>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=70&lines=Building+with+Code+%7C+Solving+with+Logic;AI%2FML+Engineer+in+the+Making+%E2%9A%A1" alt="Typing SVG" />
-</a>
 
 <br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=70&lines=Building+with+Code+%7C+Solving+with+Logic;AI%2FML+Engineer+in+the+Making+%E2%9A%A1)](https://git.io/typing-svg)
+
+<br>
+
 <a href="https://github.com/Akshaya2302">
-  <img src="https://komarev.com/ghpvc/?username=Akshaya2302&label=Profile+Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Akshaya2302&amp;label=Profile+Views&amp;color=6C63FF&amp;style=for-the-badge" alt="Profile Views"/>
 </a>
+&nbsp;&nbsp;
+<a href="https://github.com/Akshaya2302?tab=repositories">
+<img src="https://img.shields.io/badge/Repos-Check_Them_Out-6C63FF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Repositories"/>
+</a>
+
 </div>
 
 <br>
+
 ---
+
 <br>
 
 ## 🧑‍💻 &nbsp;About Me
+
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif"/>
 
-* 🎓 &nbsp;Pursuing **B.Tech in Computer Science & Engineering**, specializing in **AI & Machine Learning**
-* 📍 &nbsp;Based in **Bengaluru, Karnataka, India**
-* 🔥 &nbsp;Maintaining a **strict daily coding streak** — **60–90 minutes** of focused programming, every single day
-* 🧠 &nbsp;Passionate about **building things from scratch** and **solving logic-driven problems**
-* 🛤️ &nbsp;Career track: **AI/ML Engineering** · **Full-Stack Development**
-* 🌱 &nbsp;Currently deepening my expertise in **Python for AI/ML** and **Frontend Web Development**
-* 💬 &nbsp;Ask me about **C programming, Python fundamentals, or web development basics**
-* ⚡ &nbsp;Fun fact: I believe **consistency beats intensity** — and I prove it daily
+- 🎓 &nbsp;Pursuing **B.Tech in Computer Science & Engineering**, specializing in **AI & Machine Learning**
+- 🏛️ &nbsp;Student at **Swami Vivekananda Yoga Anusandhana Samsthana**
+- 📍 &nbsp;Based in **Bengaluru, Karnataka, India**
+- 🔥 &nbsp;Maintaining a **strict daily coding streak** — **60–90 minutes** of focused programming, every single day
+- 🧠 &nbsp;Passionate about **building things from scratch** and **solving logic-driven problems**
+- 🛤️ &nbsp;Career track: **AI/ML Engineering** · **Full-Stack Development**
+- 🌱 &nbsp;Currently deepening my expertise in **Python for AI/ML** and **Frontend Web Development**
+- 💬 &nbsp;Ask me about **C programming, Python fundamentals, or web development basics**
+- ⚡ &nbsp;Fun fact: I believe **consistency beats intensity** — and I prove it daily
+
 <br clear="right"/>
 
 <br>
+
 ---
+
 <br>
 
 ## 🛠️ &nbsp;Tech Stack
-<table align="center" width="100%">
+
+<div align="center">
+<table>
 <tr>
-<td align="center" width="33%" valign="top">
-<h3>💻 Core Languages</h3>
+<td align="center" width="33%">
+
+### 💻 Core Languages
 <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<br><br>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 </td>
-<td align="center" width="33%" valign="top">
-<h3>🌐 Frontend Development</h3>
+<td align="center" width="33%">
+
+### 🌐 Frontend Development
 <br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<br><br>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 </td>
-<td align="center" width="33%" valign="top">
-<h3>⚙️ Tools & Version Control</h3>
+<td align="center" width="33%">
+
+### ⚙️ Tools & Version Control
 <br>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<br><br>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </td>
 </tr>
 </table>
+</div>
 
 <br>
+
 ---
+
 <br>
 
 ## 🚀 &nbsp;What I'm Building — Daily Focus Tracks
-<table align="center" width="100%">
+
+<div align="center">
+<table>
 <tr>
-<td align="center" width="33%" valign="top">
+
+<td align="center" width="33%">
 <h3>🔢 Daily C Program</h3>
 <p><strong>Logic & Problem Solving</strong></p>
 <p>Practical C programming problems tackling core logic implementation — one problem at a time, every day.</p>
-<br>
 <a href="https://github.com/Akshaya2302/Daily-C-program">
-  <img src="https://img.shields.io/badge/→_Explore_Repo-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Daily C Program"/>
+<img src="https://img.shields.io/badge/→_Explore_Repo-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="Daily C Program"/>
 </a>
 </td>
-<td align="center" width="33%" valign="top">
+
+<td align="center" width="33%">
 <h3>🐍 Python — Daily 60 Mins</h3>
 <p><strong>AI/ML Foundations</strong></p>
 <p>Tracking daily Python practice sessions — building core implementation skills for AI & Machine Learning.</p>
-<br>
 <a href="https://github.com/Akshaya2302/Python-programming-daily-60-mins">
-  <img src="https://img.shields.io/badge/→_Explore_Repo-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Daily"/>
+<img src="https://img.shields.io/badge/→_Explore_Repo-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python Daily"/>
 </a>
 </td>
-<td align="center" width="33%" valign="top">
+
+<td align="center" width="33%">
 <h3>🎨 My Frontend Vault</h3>
 <p><strong>Web Dev Fundamentals</strong></p>
 <p>Responsive web development from the ground up — mastering HTML & CSS through hands-on project builds.</p>
-<br>
 <a href="https://github.com/Akshaya2302/My-FrontEnd-Vault">
-  <img src="https://img.shields.io/badge/→_Explore_Repo-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend Vault"/>
+<img src="https://img.shields.io/badge/→_Explore_Repo-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="Frontend Vault"/>
 </a>
 </td>
+
 </tr>
 </table>
+</div>
 
 <br>
+
 ---
+
 <br>
 
 ## 📊 &nbsp;GitHub Metrics
 
-![Akshaya's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Akshaya2302&show_icons=true&theme=tokyonight&count_private=true)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akshaya2302&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="Akshaya's GitHub Stats"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaya2302&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages"/>
+</p>
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akshaya2302&layout=compact&theme=tokyonight&hide=jupyter)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Akshaya2302&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12&amp;background=0D1117&amp;ring=6C63FF&amp;fire=6C63FF&amp;currStreakLabel=6C63FF&amp;sideLabels=FFFFFF&amp;dates=A599FF" alt="GitHub Streak"/>
+</p>
 
 <br>
+
 ---
+
+<br>
+
+## 🏆 &nbsp;GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akshaya2302&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
+</p>
+
+<br>
+
+---
+
 <br>
 
 ## 🤝 &nbsp;Let's Connect
+
 <div align="center">
-  <a href="https://linkedin.com/in/akshaya-c-s" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:akshaya2302@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaya-cs-193b76382/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshayacs2008@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshaya2302)
+
 </div>
 
 <br>
+
 ---
+
 <div align="center">
+
 <br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
-<br>
+
 **"Code daily. Build relentlessly. Never stop learning."**
+
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=6C63FF&amp;height=100&amp;section=footer" width="100%"/>
+
 </div>
