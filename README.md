@@ -28,7 +28,7 @@
 
 ## 🧑‍💻 &nbsp;About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif"/>
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260" alt="girl coding"/>
 
 - 🎓 &nbsp;Pursuing **B.Tech in Computer Science & Engineering**, specializing in **AI & Machine Learning**
 - 🏛️ &nbsp;Student at **Swami Vivekananda Yoga Anusandhana Samsthana**
@@ -138,7 +138,7 @@
 
 <div align="center">
 
-![Akshaya's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Akshaya2302&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF)
+![Akshaya's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Akshaya2302&show_icons=true&include_all_commits=true&count_private=true&hide=commits&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akshaya2302&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF)
 
@@ -157,12 +157,6 @@
 <div align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshaya2302&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akshaya2302&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akshaya2302&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akshaya2302&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akshaya2302&theme=tokyonight&utcOffset=5.5)
 
 </div>
 
