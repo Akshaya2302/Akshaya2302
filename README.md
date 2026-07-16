@@ -11,7 +11,7 @@
 <br>
 
 <a href="https://github.com/Akshaya2302">
-<img src="https://komarev.com/ghpvc/?username=Akshaya2302&amp;label=Profile+Views&amp;color=6C63FF&amp;style=for-the-badge" alt="Profile Views"/>
+
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Akshaya2302?tab=repositories">
@@ -31,7 +31,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="260" alt="girl coding"/>
 
 - 🎓 &nbsp;Pursuing **B.Tech in Computer Science & Engineering**, specializing in **AI & Machine Learning**
-- 🏛️ &nbsp;Student at **Swami Vivekananda Yoga Anusandhana Samsthana**
+- 🏛️ &nbsp;Student at **Swami Vivekananda Yoga Anusandhana Samsthana(S-VYASA Deemed-to-be-University)**
 - 📍 &nbsp;Based in **Bengaluru, Karnataka, India**
 - 🔥 &nbsp;Maintaining a **strict daily coding streak** — **60–90 minutes** of focused programming, every single day
 - 🧠 &nbsp;Passionate about **building things from scratch** and **solving logic-driven problems**
