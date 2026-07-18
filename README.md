@@ -31,12 +31,6 @@
 
 <br clear="right"/>
 
-<br>
-
----
-
-<br>
-
 ## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
@@ -73,10 +67,6 @@
 </tr>
 </table>
 </div>
-
-<br>
-
----
 
 <br>
 
