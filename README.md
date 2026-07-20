@@ -3,7 +3,7 @@
     <td width="65%" valign="top">
       <h1>Hey there, I'm Akshaya C S 👋</h1>
       <h3>🚀 AI/ML Engineer & Full-Stack Developer in the Making</h3>
-      <p><em>Pursuing B.Tech in CSE — Specializing in Artificial Intelligence & Machine Learning</em></p>
+      <p><em>Pursuing B.Tech in CSE in Specializing in Artificial Intelligence & Machine Learning</em></p>
       <br>
       <a href="https://github.com/Akshaya2302?tab=repositories">
         <img src="https://img.shields.io/badge/Repositories-Explore%20My%20Vault-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
@@ -22,12 +22,12 @@
 - 🎓 &nbsp;Pursuing **B.Tech in Computer Science & Engineering**, specializing in **AI & Machine Learning**
 - 🏛️ &nbsp;Student at **Swami Vivekananda Yoga Anusandhana Samsthana(S-VYASA Deemed-to-be-University)**
 - 📍 &nbsp;Based in **Bengaluru, Karnataka, India**
-- 🔥 &nbsp;Maintaining a **strict daily coding streak** — **60–90 minutes** of focused programming, every single day
+- 🔥 &nbsp;Maintaining a **strict daily coding streak**, **60–90 minutes** of focused programming, every single day
 - 🧠 &nbsp;Passionate about **building things from scratch** and **solving logic-driven problems**
 - 🛤️ &nbsp;Career track: **AI/ML Engineering** · **Full-Stack Development**
 - 🌱 &nbsp;Currently deepening my expertise in **Python for AI/ML** and **Frontend Web Development**
 - 💬 &nbsp;Ask me about **C programming, Python fundamentals, or web development basics**
-- ⚡ &nbsp;Fun fact: I believe **consistency beats intensity** — and I prove it daily
+- ⚡ &nbsp;Fun fact: I believe **consistency beats intensity** and I prove it daily
 
 <br clear="right"/>
 
