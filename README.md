@@ -117,11 +117,15 @@
 
 <div align="center">
 
-![Akshaya's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Akshaya2302&show_icons=true&include_all_commits=true&count_private=true&hide=commits&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF)
+## 📊 GitHub Metrics
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akshaya2302&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF)
+[![Akshaya's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Akshaya2302&show_icons=true&include_all_commits=true&count_private=true&hide=commits&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF)](https://github.com/Akshaya2302)
 
-<img src="https://streak-stats.demolab.com?user=Akshaya2302&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12&amp;background=0D1117&amp;ring=6C63FF&amp;fire=6C63FF&amp;currStreakLabel=6C63FF&amp;sideLabels=FFFFFF&amp;dates=A599FF" alt="GitHub Streak"/>
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akshaya2302&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF)](https://github.com/Akshaya2302)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Akshaya2302&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=FFFFFF&dates=A599FF)](https://github.com/Akshaya2302)
+
+</div>
 
 </div>
 
