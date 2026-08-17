@@ -119,7 +119,7 @@
 
 ## 📊 GitHub Metrics
 
-[![Akshaya's GitHub Stats](https://github-readme-stats-iota-six-80.vercel.app/api?username=Akshaya2302&show_icons=true&include_all_commits=true&count_private=true&hide=commits&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF)](https://github.com/Akshaya2302)
+[![Akshaya's GitHub Stats](https://github-readme-stats-iota-six-80.vercel.app/api?username=Akshaya2302&show_icons=true&include_all_commits=true&count_private=true&hide=commits&hide_rank=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF)](https://github.com/Akshaya2302)
 
 [![Top Languages](https://github-readme-stats-iota-six-80.vercel.app/api/top-langs/?username=Akshaya2302&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF)](https://github.com/Akshaya2302)
 
