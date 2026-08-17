@@ -129,7 +129,7 @@
 ---
 
 <br>
-![LeetCode Quest](leetcode-quest.svg) or if it's in an assets folder: ![LeetCode Quest](assets/leetcode-quest.svg)
+![LeetCode Quest](leetcode-quest.svg)
 <br>
 
 ---
