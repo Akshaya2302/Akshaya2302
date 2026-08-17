@@ -117,7 +117,6 @@
 
 <div align="center">
 
-## 📊 GitHub Metrics
 
 [![Akshaya's GitHub Stats](https://github-readme-stats-iota-six-80.vercel.app/api?username=Akshaya2302&show_icons=true&include_all_commits=true&count_private=true&hide=commits&hide_rank=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF)](https://github.com/Akshaya2302)[![Top Languages](https://github-readme-stats-iota-six-80.vercel.app/api/top-langs/?username=Akshaya2302&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF)](https://github.com/Akshaya2302)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Akshaya2302&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=FFFFFF&dates=A599FF)](https://github.com/Akshaya2302)
@@ -125,7 +124,12 @@
 </div>
 
 </div>
+<br>
 
+---
+
+<br>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Akshaya2302?theme=dark&font=Fira%20Code&ext=contest)](https://leetcode.com/u/Akshaya2302)
 <br>
 
 ---
