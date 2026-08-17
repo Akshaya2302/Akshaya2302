@@ -129,7 +129,7 @@
 ---
 
 <br>
-![LeetCode Quest](leetcode-quest.svg)
+<img src="leetcode-quest.svg" alt="LeetCode Quest" width="800">
 <br>
 
 ---
