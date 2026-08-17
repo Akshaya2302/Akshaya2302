@@ -129,27 +129,15 @@
 ---
 
 <br>
+## 🏆 &nbsp;LeetCode Progress
+<a href="https://leetcode.com/u/Akshaya2302">
+  <img src="https://leetcard.jacoblin.cool/Akshaya2302?theme=dark&font=Fira%20Code&ext=contest&border=0&cache=false" alt="LeetCode Stats" width="490"/>
+</a>
 <br>
 
 ---
 
 <br>
-
-## 🏆 &nbsp;LeetCode Progress
-
-<div align="center">
-
-<a href="https://leetcode.com/u/Akshaya2302">
-  <img src="https://leetcard.jacoblin.cool/Akshaya2302?theme=dark&font=Fira%20Code&ext=contest&border=0" alt="LeetCode Stats" width="490"/>
-</a>
-
-<br><br>
-
-<a href="https://leetcode.com/u/Akshaya2302">
-  <img src="https://leetcard.jacoblin.cool/Akshaya2302?theme=dark&font=Fira%20Code&ext=heatmap&border=0" alt="LeetCode Heatmap" width="490"/>
-</a>
-
-</div>
 <br>
 
 ---
